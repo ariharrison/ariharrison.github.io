@@ -1,0 +1,42 @@
+.map iframe {
+}
+
+.footer.text-center {
+  height: 0px;
+}
+
+@media (max-width: 570px) {
+  .container {
+    max-width: 250px;
+  }
+}
+
+@media (min-width: 300px) {
+  .masthead h1 {
+  }
+}
+
+.profilephoto {
+}
+
+.portfolio-item img {
+  filter: brightness(34%) hue-rotate(0deg);
+}
+
+#contact-me {
+  height: 200px;
+}
+
+.container.text-center {
+}
+
+#contact-ari {
+  background-color: #17667f;
+}
+
+@media (min-width: 300px) {
+  #contact {
+    height: 400px;
+  }
+}
+
